@@ -1,5 +1,2 @@
-# 7d2d
-7 Days to Die Editor work
-
-
-This is the central repository for the 7 Days to Die Editor that will be worked on 
+Good morning/afternoon/evening to who is reading this! 
+This was created to make a space for my final Python Project for a class. Included are the some of the test XML files and the Python code its self. Perhaps at some point I'll make this more into what I want it to be and have actually usefull.
